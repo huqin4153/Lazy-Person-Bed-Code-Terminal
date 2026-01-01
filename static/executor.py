@@ -9,7 +9,7 @@ import os
 SERVER = "http://127.0.0.1:8000" 
 
 # Secret token for authentication
-TOKEN = "<your token >"
+TOKEN = "<your api token>"
 
 # The root directory where tasks will be executed locally
 BASE_DIR = "./project"
