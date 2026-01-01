@@ -1,0 +1,8 @@
+{
+  "name": "Remote Executor",
+  "short_name": "Executor",
+  "start_url": "/ui/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
